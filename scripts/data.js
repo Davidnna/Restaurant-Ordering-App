@@ -62,20 +62,20 @@ const menuArray = [
 		emoji: "🍝",
 		id: 8
 	},
-	// {
-	// 	name: "Salad",
-	// 	ingredients: ["mixed greens", "cucumber", "tomato", "dressing"],
-	// 	price: 8,
-	// 	emoji: "🥗",
-	// 	id: 9
-	// },
 	{
-		name: "Caesar Salad",
-		ingredients: ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
-		price: 7.99,
+		name: "Salad",
+		ingredients: ["mixed greens", "cucumber", "tomato", "dressing"],
+		price: 8,
 		emoji: "🥗",
-		id: 10
+		id: 9
 	},
+	// {
+	// 	name: "Caesar Salad",
+	// 	ingredients: ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+	// 	price: 7.99,
+	// 	emoji: "🥗",
+	// 	id: 10
+	// },
 	{
 		name: "Dessert",
 		ingredients: ["chocolate", "ice cream", "sprinkles"],
