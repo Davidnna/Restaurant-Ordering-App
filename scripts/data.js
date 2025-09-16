@@ -6,20 +6,20 @@ const menuArray = [
         emoji: "🍕",
         id: 0
     },
-    {
-		name: "Pizza",
-		ingredients: ["cheese", "tomato", "basil"],
-		price: 10,
-		emoji: "🍕",
-        id: 1
-	},
-	{
-		name: "Margherita Pizza",
-		ingredients: ["Tomato Sauce", "Mozzarella", "Basil"],
-		price: 10.99,
-		emoji: "🍕",
-		id: 2
-	},
+    // {
+	// 	name: "Pizza",
+	// 	ingredients: ["cheese", "tomato", "basil"],
+	// 	price: 10,
+	// 	emoji: "🍕",
+    //     id: 1
+	// },
+	// {
+	// 	name: "Margherita Pizza",
+	// 	ingredients: ["Tomato Sauce", "Mozzarella", "Basil"],
+	// 	price: 10.99,
+	// 	emoji: "🍕",
+	// 	id: 2
+	// },
     {
         name: "Hamburger",
         ingredients: ["beef", "cheese", "lettuce"],
@@ -27,27 +27,27 @@ const menuArray = [
         emoji: "🍔",
         id: 3
     },
-	{
-		name: "Burger",
-		ingredients: ["beef", "cheese", "lettuce"],
-		price: 8,
-		emoji: "🍔",
-        id: 4
-	},
-	{
-		name: "Burger",
-		ingredients: ["beef patty", "lettuce", "tomato", "cheese"],
-		price: 12,
-		emoji: "🍔",
-		id: 5
-	},
-    {
-		name: "Cheeseburger",
-		ingredients: ["Beef Patty", "Cheese", "Lettuce", "Tomato", "Onion"],
-		price: 8.99,
-		emoji: "🍔",
-		id: 6
-	},
+	// {
+	// 	name: "Burger",
+	// 	ingredients: ["beef", "cheese", "lettuce"],
+	// 	price: 8,
+	// 	emoji: "🍔",
+    //     id: 4
+	// },
+	// {
+	// 	name: "Burger",
+	// 	ingredients: ["beef patty", "lettuce", "tomato", "cheese"],
+	// 	price: 12,
+	// 	emoji: "🍔",
+	// 	id: 5
+	// },
+    // {
+	// 	name: "Cheeseburger",
+	// 	ingredients: ["Beef Patty", "Cheese", "Lettuce", "Tomato", "Onion"],
+	// 	price: 8.99,
+	// 	emoji: "🍔",
+	// 	id: 6
+	// },
 	{
 		name: "Sushi",
 		ingredients: ["rice", "fish", "seaweed"],
@@ -62,13 +62,13 @@ const menuArray = [
 		emoji: "🍝",
 		id: 8
 	},
-	{
-		name: "Salad",
-		ingredients: ["mixed greens", "cucumber", "tomato", "dressing"],
-		price: 8,
-		emoji: "🥗",
-		id: 9
-	},
+	// {
+	// 	name: "Salad",
+	// 	ingredients: ["mixed greens", "cucumber", "tomato", "dressing"],
+	// 	price: 8,
+	// 	emoji: "🥗",
+	// 	id: 9
+	// },
 	{
 		name: "Caesar Salad",
 		ingredients: ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
